@@ -8,11 +8,10 @@
 
 I watch anime for my own satisfaction and relief from stress
 
-I don't read manga. I only watch anime without subtitles. Sometimes I use the English subs, but sometimes I don't.
+I don't read manga. I only watch anime without subtitles. Sometimes I use the English subs, but sometimes I don't. I also watch Japanese drama that doesn't have English subtitles. 
 
 I listen and speak Japanese Fluently.
 
-I also watch Japanese drama that doesn't have English subtitles. I will list my watched Japanese dramas that I can recommend for you guys to watch.
 
 &nbsp;
 
