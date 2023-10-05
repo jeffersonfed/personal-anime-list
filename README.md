@@ -100,7 +100,7 @@ I listen and speak Japanese Fluently.
 [**Jujutsu Kaisen Season 2**]: https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season?q=jujutsu%20kaisen%20&cat=anime
 [**Reign of the seven spellblades**]: https://myanimelist.net/anime/50582/Nanatsu_no_Maken_ga_Shihai_suru
 [**Helck**]: https://myanimelist.net/anime/51020/Helck?q=Helck&cat=anime
-
+[**I'm Giving the Disgraced Noble Lady**]: https://myanimelist.net/anime/52934/Konyaku_Haki_sareta_Reijou_wo_Hirotta_Ore_ga_Ikenai_Koto_wo_Oshiekomu
 
 
 |  #   |       Title       |                Seasons                                            | Episodes |  Type  | Year | My Rating |
@@ -122,6 +122,8 @@ I listen and speak Japanese Fluently.
 |  15  |Jujutsu Kaisen     | [**Jujutsu Kaisen Season 2**]                                     |   10/23  | Series | 2023 |  9.5/10   |
 |  16  |Seven SpellBlades  | [**Reign of the seven spellblades**]                              |   13/15  | Series | 2023 |  8.5/10   |
 |  17  |Helck              | [**Helck**]                                                       |   10/24  | Series | 2023 |  8.5/10   |
+|  18  |Noble Lady         | [**I'm Giving the Disgraced Noble Lady**]                         |   10/24  | Series | 2023 |  8.5/10   |
+
 
 &nbsp;
 
