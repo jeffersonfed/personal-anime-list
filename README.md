@@ -57,8 +57,6 @@ I also watch Japanese drama that doesn't have English subtitles. I will list my 
 - Mashle 2nd Season
 - Bocchi the Rock! Movie
 - Mahouka Koukou no Rettousei (Zoku-hen)
--
-
 
 
 ## Upcoming Unknown
