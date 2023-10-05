@@ -1,0 +1,16 @@
+{
+  "name": "personal-anime-list",
+  "version": "1.0.0",
+  "description": "Jefferson's Personal Anime List",
+  "main": "index.js",
+  "homepage": "https://jeffersonfed.github.io/personal-anime-list",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
