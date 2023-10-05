@@ -3,7 +3,9 @@
 
 <div align="center">
   <img src="assets/3SfS.gif"/><br>
-  <img src="assets/view.svg"/>
+  <a href="https://open.spotify.com/track/79G2ITmSiJLeNe9NbDeJMk?si=7b80b31129db4ba7">
+    <img src="assets/view.svg"/>
+  </a>
 </div>
 
 &nbsp;
