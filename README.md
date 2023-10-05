@@ -122,7 +122,7 @@ I listen and speak Japanese Fluently.
 |  15  |Jujutsu Kaisen     | [**Jujutsu Kaisen Season 2**]                                     |   10/23  | Series | 2023 |  9.5/10   |
 |  16  |Seven SpellBlades  | [**Reign of the seven spellblades**]                              |   13/15  | Series | 2023 |  8.5/10   |
 |  17  |Helck              | [**Helck**]                                                       |   10/24  | Series | 2023 |  8.5/10   |
-|  18  |Noble Lady         | [**I'm Giving the Disgraced Noble Lady**]                         |    1/?   | Series | 2023 |    ?/10   |
+|  18  |Noble Lady         | [**I'm Giving the Disgraced Noble Lady**]                         |    1/?   | Series | 2023 |  8.9/10   |
 
 
 &nbsp;
