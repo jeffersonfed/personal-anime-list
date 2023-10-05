@@ -1,7 +1,9 @@
 <h1 align="center">My Anime and Japanese Drama List</h1>
 
+
 <div align="center">
-  <img src="assets/3SfS.gif"/>
+  <img src="assets/3SfS.gif"/><br>
+  <img src="assets/view.svg"/>
 </div>
 
 &nbsp;
