@@ -100,31 +100,31 @@ I also watch Japanese drama that doesn't have English subtitles. I will list my 
 [**Reign of the seven spellblades**]: https://myanimelist.net/anime/50582/Nanatsu_no_Maken_ga_Shihai_suru
 [**Helck**]: https://myanimelist.net/anime/51020/Helck?q=Helck&cat=anime
 
-<div align="left">
 
-|  #   |   Title     |                Seasons                | Episodes |  Type  | Year | My Rating |
-| :--: | :---------: | :-----------------------------------: | :------: | :----: | :--: | :-------: |
-|  1   |Frieren      | [**Frieren beyond the journeys end**] |    4/?   | Series | 2023 |  9.8/10   |
-|  2   |Demon Sword  | [**Seiken gakuin no makentsukai**]    |    1/?   | Series | 2023 |  7.0/10   |
-|  3   |Berserk      | [**Berserk of Gluttony**]             |    1/?   | Series | 2023 |  8.0/10   |
-|  4   |Ragna Crimson| [**Ragna Crimson**]                   |    1/?   | Series | 2023 |  7.0/10   |
-|  5   |Villainess   | [**I'm in Love with the Villainess**] |    1/?   | Series | 2023 |  9.0/10   |
-|  6   |S-Rank       | [**My Daughter Left the Nest and Returned an S-Rank Adventurer**] |    1/?   | Series | 2023 |  8.4/10   |
-|  7   |Shadow Garden| [**The Eminence in Shadow Season 2**] |    1/?   | Series | 2023 |  9.8/10   |
-|  8   |Rap Battle   | [**Paradox Live Animation**]          |    1/?   | Series | 2023 |  8.0/10   |
-|  9   |Saint Magic  | [**The Saint's Magic Power is Omnipotent Season 2**]          |    1/?   | Series | 2023 |  8.2/10   |
-|  10  |Detective    | [**Ron Kamonohashi's Forbidden Deductions**]          |    1/?   | Series | 2023 |  8.5/10   |
-|  11  |SHY          | [**Shy**]                             |    1/?   | Series | 2023 |  6.5/10   |
-|  12  |Shangri-La Frontier| [**Shangri-La Frontier**]       |    1/?   | Series | 2023 |  7.5/10   |
-|  13  |VRMMO Life   | [**A Playthrough of a Certain Dude's VRMMO Life**]       |    1/?   | Series | 2023 |  7.5/10   |
-|  14  |Irregular Witch| [**The Family Circumstances of the Irregular Witch**]       |    1/?   | Series | 2023 |  7.5/10   |
-|  15  |Jujutsu Kaisen| [**Jujutsu Kaisen Season 2**]        |   10/23  | Series | 2023 |  9.5/10   |
-|  16  |Seven SpellBlades| [**Reign of the seven spellblades**]        |   13/15  | Series | 2023 |  8.5/10   |
-|  17  |Helck        | [**Helck**]                           |   10/24  | Series | 2023 |  8.5/10   |
+
+|  #   |       Title       |                Seasons                                            | Episodes |  Type  | Year | My Rating |
+| :--: | :---------------: | :---------------------------------------------------------------: | :------: | :----: | :--: | :-------: |
+|  1   |Frieren            | [**Frieren beyond the journeys end**]                             |    4/?   | Series | 2023 |  9.8/10   |
+|  2   |Demon Sword        | [**Seiken gakuin no makentsukai**]                                |    1/?   | Series | 2023 |  7.0/10   |
+|  3   |Berserk            | [**Berserk of Gluttony**]                                         |    1/?   | Series | 2023 |  8.0/10   |
+|  4   |Ragna Crimson      | [**Ragna Crimson**]                                               |    1/?   | Series | 2023 |  7.0/10   |
+|  5   |Villainess         | [**I'm in Love with the Villainess**]                             |    1/?   | Series | 2023 |  9.0/10   |
+|  6   |S-Rank             | [**My Daughter Left the Nest and Returned an S-Rank Adventurer**] |    1/?   | Series | 2023 |  8.4/10   |
+|  7   |Shadow Garden      | [**The Eminence in Shadow Season 2**]                             |    1/?   | Series | 2023 |  9.8/10   |
+|  8   |Rap Battle         | [**Paradox Live Animation**]                                      |    1/?   | Series | 2023 |  8.0/10   |
+|  9   |Saint Magic        | [**The Saint's Magic Power is Omnipotent Season 2**]              |    1/?   | Series | 2023 |  8.2/10   |
+|  10  |Detective          | [**Ron Kamonohashi's Forbidden Deductions**]                      |    1/?   | Series | 2023 |  8.5/10   |
+|  11  |SHY                | [**Shy**]                                                         |    1/?   | Series | 2023 |  6.5/10   |
+|  12  |Shangri-La Frontier| [**Shangri-La Frontier**]                                         |    1/?   | Series | 2023 |  7.5/10   |
+|  13  |VRMMO Life         | [**A Playthrough of a Certain Dude's VRMMO Life**]                |    1/?   | Series | 2023 |  7.5/10   |
+|  14  |Irregular Witch    | [**The Family Circumstances of the Irregular Witch**]             |    1/?   | Series | 2023 |  7.5/10   |
+|  15  |Jujutsu Kaisen     | [**Jujutsu Kaisen Season 2**]                                     |   10/23  | Series | 2023 |  9.5/10   |
+|  16  |Seven SpellBlades  | [**Reign of the seven spellblades**]                              |   13/15  | Series | 2023 |  8.5/10   |
+|  17  |Helck              | [**Helck**]                                                       |   10/24  | Series | 2023 |  8.5/10   |
 
 &nbsp;
 
-</div>
+
 
 ## My Top Anime
 
